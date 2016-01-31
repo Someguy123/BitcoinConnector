@@ -8,7 +8,7 @@
         "illuminate/database": "5.2.*",
         "fguillot/json-rpc": "@stable"
     },
-    "licence": "AGPL",
+    "license": "AGPL",
     "authors": [
         {
             "name": "Someguy123",
